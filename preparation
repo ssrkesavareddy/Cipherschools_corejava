@@ -1,0 +1,77 @@
+// how to prepare for competetive programming (dsa)
+// core subjects
+// projects
+// resume
+// interviews
+
+DSA
+1. Read the problem and understand the problem.
+2. See the constraints
+3. Find the solution satisfying few test cases.
+4. After finding the solution, dry run it for few other test cases.
+5. Code your solution and run it.
+    5.1 If your solution is correct. You can submit the problem and check the results.
+    5.2 It your solution is not correct. Try to find edge cases. Go to step 1.
+
+If you find TLE or Time limit exceeded then optimise your solution.
+Always try to find edge cases and consider them in your solution.
+
+Things to learn about CP
+1. Learn Time Complexity, Space Complexity
+    https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/
+    https://www.geeksforgeeks.org/time-complexity-and-space-complexity/
+
+2. Learn about data structures:
+    2.1 Arrays
+    2.2 Linked list (single linkedlist, double linkedlist, circular linkedlist)
+    2.3 Stack (push, pop)
+    2.4 Queue (enqueue, dequeue)
+    2.5 Tree (Binary Tree, Binary Search Tree, )
+    2.6 Heap (min heap, max heap)
+    2.7 Priority Queue
+    2.8 Hashing (Hash table, HashMap)
+    2.9 Sets (HashSet)
+    2.10 Graphs
+    2.11 Trie and Segment Tree (Advanced)
+
+3. Learn about Algorithms:
+    3.1 Searching (Linear and Binary)
+    3.2 Sorting (Bubble, Insertion, Selection, Merge, Quick)
+    3.3 Divide and Conquer
+    3.4 Greedy Algorithms https://medium.com/@chaitanya.sardey19/greedy-algorithm-e71cfbbb670e
+    3.5 Recursion and Backtracking https://www.youtube.com/playlist?list=PLEWaDV_eKq-9h9IBVgrlgO8MvLAIo6DMG
+    3.6 Dynammic programming: https://www.youtube.com/playlist?list=PL_z_8CaSLPWekqhdCPmFohncHwz8TY2Go
+    3.7 Bitwise Manipulations: https://medium.com/nybles/bit-manipulation-for-beginners-a2c00513d468
+
+4. Core subjects
+    4.1 OOPs (Objects, Classes, Abstraction, Encapsulation, Inheritence, Polymorphism)
+        https://www.interviewbit.com/oops-interview-questions/
+
+    4.2 Operating System https://www.scaler.com/topics/operating-system/
+        https://www.youtube.com/playlist?list=PLxCzCOWd7aiGz9donHRrE9I3Mwn6XdP8p
+        https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O
+        https://www.interviewbit.com/operating-system-interview-questions/
+
+    4.3 DBMS https://www.scaler.com/topics/dbms/
+        https://www.youtube.com/playlist?list=PLxCzCOWd7aiFAN6I8CuViBuCdJgiOkT2Y
+        https://www.interviewbit.com/dbms-interview-questions/#normalization-in-dbms
+
+        SQL: https://www.w3schools.com/sql/
+            Practive: hackerrank
+
+    4.4 Computer Network: 
+
+5. Puzzles: https://www.geeksforgeeks.org/puzzles/
+
+Sources: 
+https://www.geeksforgeeks.org/learn-data-structures-and-algorithms-dsa-tutorial/?ref=shm
+https://neetcode.io/practice
+https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems/
+
+Projects:
+Web development, Andriod development, Data science (ML, AI, DL, NLP), Cryptography
+Understand your project and prepare for questions
+
+Resume:
+https://www.overleaf.com/latex/templates/faangpath-simple-template/npsfpdqnxmbc
+
